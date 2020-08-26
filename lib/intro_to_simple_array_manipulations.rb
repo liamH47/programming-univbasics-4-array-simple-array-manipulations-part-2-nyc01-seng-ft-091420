@@ -6,6 +6,6 @@ def using_flatten
   array.flatten
 end
 
-def using_concat(array, array)
+def using_concat(array, array1)
   array.concat
 end
