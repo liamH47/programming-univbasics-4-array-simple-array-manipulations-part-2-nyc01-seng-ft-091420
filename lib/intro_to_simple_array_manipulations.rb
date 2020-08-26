@@ -7,5 +7,5 @@ def using_flatten(array)
 end
 
 def using_concat(array, array1)
-  array.concat
+  array.concat(array1)
 end
