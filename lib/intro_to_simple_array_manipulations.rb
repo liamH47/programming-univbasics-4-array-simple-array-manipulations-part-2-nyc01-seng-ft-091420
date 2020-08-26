@@ -11,7 +11,7 @@ def using_concat(array, array1)
 end
 
 def using_insert(array, index)
-  array.insert(4)
+  array.insert(index)
 end
 
 def using_delete(array, string)
